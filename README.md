@@ -5,6 +5,10 @@
 - 🌱 I'm currently dive into project management and blockchain
 - 📗 I set a monthly reading goal of one book
  
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stlajay&theme=2077)
+
+
  **What I used until now ...**
  
  
@@ -20,7 +24,7 @@
 [<img alt="Instagram" width="24px" src="https://www.svgrepo.com/show/13639/instagram.svg">][instagram]
 [<img alt="Website" width="24px" src="https://www.svgrepo.com/show/448261/youtube.svg">][youtube]
 
-[website]: https://stlajay.io
+[website]: https://stlajay.github.io
 [linkedin]: https://www.linkedin.com/in/stlajay
 [instagram]: https://www.instagram.com/stlajay
 [youtube]: https://www.youtube.com/@stlrajay
