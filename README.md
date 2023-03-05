@@ -9,16 +9,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stlajay&theme=2077)
 
 
- **What I used until now ...**
- 
- 
-**</>**: C++, Python, React.js & SQL
-
-**🛠️**: Git, JupyterLab, MongoDB, Tableau, Notion & VSCode
-
- **💻**: Windows / [Debian GNU](https://www.debian.org/)
-
-
 [<img alt="Website" width="24px" src="https://www.svgrepo.com/show/362105/globe.svg">][website]
 [<img alt="LinkedIn" width="24px" src="https://www.svgrepo.com/show/157006/linkedin.svg">][linkedin]
 [<img alt="Instagram" width="24px" src="https://www.svgrepo.com/show/13639/instagram.svg">][instagram]
