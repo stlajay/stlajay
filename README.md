@@ -8,7 +8,7 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stlajay&theme=2077)
 
-
+<!--
 [<img alt="Website" width="24px" src="https://www.svgrepo.com/show/362105/globe.svg">][website]
 [<img alt="LinkedIn" width="24px" src="https://www.svgrepo.com/show/157006/linkedin.svg">][linkedin]
 [<img alt="Instagram" width="24px" src="https://www.svgrepo.com/show/13639/instagram.svg">][instagram]
@@ -19,7 +19,7 @@
 [instagram]: https://www.instagram.com/stlajay
 [youtube]: https://www.youtube.com/@stlrajay
 
-
+-->
 
 #### Visitors 👀
 <img src="https://profile-counter.glitch.me/stlajay/count.svg" target="_blank"></a>
