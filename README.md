@@ -7,17 +7,19 @@
  
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stlajay&theme=2077)
+#### So far, I've contributed; just send me a [message](https://mailto:ajaydeshmukh@email.com).
 
 <!--
+
 [<img alt="Website" width="24px" src="https://www.svgrepo.com/show/362105/globe.svg">][website]
 [<img alt="LinkedIn" width="24px" src="https://www.svgrepo.com/show/157006/linkedin.svg">][linkedin]
 [<img alt="Instagram" width="24px" src="https://www.svgrepo.com/show/13639/instagram.svg">][instagram]
 [<img alt="Website" width="24px" src="https://www.svgrepo.com/show/448261/youtube.svg">][youtube]
 
 [website]: https://stlajay.github.io
-[linkedin]: https://www.linkedin.com/in/stlajay
-[instagram]: https://www.instagram.com/stlajay
-[youtube]: https://www.youtube.com/@stlrajay
+[linkedin]: https://www.linkedin.com/in/
+[instagram]: https://www.instagram.com/
+[youtube]: https://www.youtube.com/
 
 -->
 
