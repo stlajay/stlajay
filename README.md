@@ -2,12 +2,12 @@
 ## Hi there, nice to meet you ...
 
 
-- 🌱 I'm currently dive into project management and blockchain
+- 🌱 I'm currently dive and challenging into blockchain (Web3)
 - 📗 I set a monthly reading goal of one book
- 
+- 👔 Interested and open to new opportunities 
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stlajay&theme=2077)
-#### So far, I've contributed; just send me a [message](https://mailto:ajaydeshmukh@email.com).
+#### Would you like to connect, just send me a [message](https://mailto:ajaydeshmukh@email.com).
 
 <!--
 
